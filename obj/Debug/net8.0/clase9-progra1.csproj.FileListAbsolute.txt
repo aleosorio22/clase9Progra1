@@ -1,0 +1,5 @@
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase9-progra1\obj\Debug\net8.0\clase9-progra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase9-progra1\obj\Debug\net8.0\clase9-progra1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase9-progra1\obj\Debug\net8.0\clase9-progra1.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase9-progra1\obj\Debug\net8.0\clase9-progra1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase9-progra1\obj\Debug\net8.0\clase9-progra1.sourcelink.json
